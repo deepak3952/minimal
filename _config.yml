@@ -1,20 +1,23 @@
 title: <p align="center"> Deepak Panwar </p>
-logo: /assets/img/DeepakPanwar.jpg
-description:
-<p align ="center">
-<a href="pdf/resume.pdf">Resume</a>
-<a href="www.linkedin.com/in/deepak-panwar-0240b173">LinkedIn</a>
-<a href="https://github.com/deepak3952">GitHub</a>
+logo: /assets/img/logo.png
 
-<br>
-I' am working on Data Science,Machine Learning and NLP related problems.
-Also working as a full stack develper for spring boot based application
-Worked with Computer Science Corporation for 3.2 years.
-Worked with HCL for 1.3 years.
-Worked for Capgemini for 1.9 years.
-Worked with Accenture for 1.7 years.
-Currently working with Boeing for more than 10 months
-</br>
-</p>
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/deepak-panwar-0240b173">LinkedIn</a>
+  <a href="https://github.com/deepak3952">GitHub</a>
+  
+  <br>   
+  I' am working on Data Science,Machine Learning and NLP related problems.
+  Also working as a full stack develper for spring boot based application
+  Worked with Computer Science Corporation for 3.2 years.
+  Worked with HCL for 1.3 years.
+  Worked for Capgemini for 1.9 years.
+  Worked with Accenture for 1.7 years.
+  Currently working with Boeing for more than 10 months
+  <br>
+  </p>
+
+
 
 theme: jekyll-theme-minimal
