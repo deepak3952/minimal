@@ -1,6 +1,8 @@
+#Data Science Portfolio
 ---
-layout: default
----
+## Machine Learning
+
+## Fraud Detection
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
